@@ -1,1 +1,1 @@
-print ("el principe de constatinopla queria programar")
+print ("el principe de constatinopla queria programar versión 2")
